@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1431140128
+Nama  : Dimas Dwi Sulistiyosari
+Kelas : MI-2E
 
 Dengan ini menyatakan:
 
